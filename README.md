@@ -1,0 +1,2 @@
+# Horse-Colic-Prediction
+APPROACH-  Identify NULL values in each column and respective counts Identify dtype of columns Dummification for categorical variable. Filling NULL values with Most frequent values of respective columns, This will be done in two steps. Fill the NULL of categorical features and put the label on them. This will enrich our data for most frequent column Fill the NULL of remaining features (Numerical). Split data for training Apply classification algorithm and evaluate the performance.
